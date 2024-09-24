@@ -4,6 +4,7 @@
 # 安装插件
 - 下载release的[XCMusic.dll](https://github.com/yiktllw/DMPlugin_XCMusic/releases/latest)
 - 将XCMusic.dll放在弹幕姬插件目录下(`你的用户文件夹/Documents/弹幕姬/Plugins/`)
+- 重启弹幕姬
 - 在弹幕姬中启用本插件
 
 # 点歌功能
